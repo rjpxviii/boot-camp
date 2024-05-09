@@ -1,2 +1,2 @@
 # boot-camp
-test
+Example repository for online data bootcamp
